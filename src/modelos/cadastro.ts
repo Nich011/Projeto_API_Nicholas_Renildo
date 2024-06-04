@@ -5,7 +5,7 @@
 type cadastro = {
     employer_number_cnpj: number
     name: string
-    spv_susep: number
+    spv_susep: string
     corporate_reason: string
     email: string
     number: string
